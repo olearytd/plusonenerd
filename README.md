@@ -1,4 +1,4 @@
-# Tim OLeary
-Base code for my website resume
+# PlusOne Nerd
+Base code for www.plusonenerd.com
 
 Under Maintenance
