@@ -1,4 +1,4 @@
-# plusonenerd
-Base code for the upcoming and new www.plusonenerd.com
+# Tim OLeary
+Base code for my website resume
 
 Under Maintenance
